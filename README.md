@@ -18,7 +18,7 @@ Get it locally & rename
 
 ```
 1. Download zip file from https://github.com/jescrafts/node-api-heroku-template.git & unzip
-2. Rename folder and rename the project, project description in package.json
+2. Rename folder and rename project and project description in package.json
 3. npm install
 ```
 
