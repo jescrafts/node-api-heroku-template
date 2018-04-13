@@ -17,7 +17,7 @@ This is how to get the code up and running for your project
 Get it locally & rename
 
 ```
-1. git clone https://github.com/jescrafts/node-api-heroku-template.git
+1. Download zip file from https://github.com/jescrafts/node-api-heroku-template.git
 2. cd node-api-heroku-template
 3. Rename folder and rename the project in package.json
 4. npm install
@@ -26,18 +26,19 @@ Get it locally & rename
 Test it on local
 
 ```
-5. heroku local web
+5. heroku local web (this takes a few minutes the first time)
 6. Test http://localhost:5000/ and http://localhost/api/self
 ```
 
 Deploy to heroku
 
 ```
-5. git add .
-6. git commit -m "Initial Commit"
-7. heroku create <heroku-app-name> (might prompt for heroku login)
-8. git push heroku master
-6. heroku open
+5. git init
+6. git add .
+7. git commit -m "Initial Commit"
+8. heroku create <heroku-app-name> (might prompt for heroku login)
+9. git push heroku master
+10. heroku open
 ```
 
 ## Using the template
