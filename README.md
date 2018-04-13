@@ -7,7 +7,9 @@ This template can be used for a simple node api project that can be run locally 
 ### Prerequisites
 
 Node
+
 npm
+
 Heroku CLI
 
 ### Installing
@@ -19,7 +21,8 @@ Get it locally & rename
 ```
 1. Download zip file from https://github.com/jescrafts/node-api-heroku-template.git & unzip
 2. Rename folder and rename project and project description in package.json
-3. npm install
+3. cd <project_name>
+4. npm install
 ```
 
 Test it on local
@@ -59,6 +62,4 @@ The template supports management of keys seperately for production vs developmen
 
 ### API
 
-Modify routes.js to add the api routes
-Modify models to add new models and support functionality required for your application
-
+Modify routes.js to add the api routes. Modify models to add new models and support functionality required for your application.
