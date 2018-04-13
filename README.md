@@ -17,10 +17,9 @@ This is how to get the code up and running for your project
 Get it locally & rename
 
 ```
-1. Download zip file from https://github.com/jescrafts/node-api-heroku-template.git
-2. cd node-api-heroku-template
-3. Rename folder and rename the project in package.json
-4. npm install
+1. Download zip file from https://github.com/jescrafts/node-api-heroku-template.git & unzip
+2. Rename folder and rename the project, project description in package.json
+3. npm install
 ```
 
 Test it on local
